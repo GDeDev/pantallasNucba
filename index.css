@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.imagen{
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    /* background-image: url('img/0.jpg'); */
+}
+
+.imagen0{
+    background-image: url('img/0.jpg');
+}
+
+.imagen1{
+    background-image: url('img/1.jpg');
+}
+
+.imagen2{
+    background-image: url('img/2.jpg');
+}
+
+.imagen3{
+    background-image: url('img/3.jpg');
+}
+
+.imagen4{
+    background-image: url('img/4.jpg');
+}
